@@ -37,4 +37,4 @@ PHP 8.0.1 was able to resolve the above errors but when I tried installing the `
 
 - Final conclusion:
 
-The report-maker package depends on phpoffice/phpword version 0.17.0, which is the latest version. The phpword package in turn requires version 5.3.3 or 7.0 of PHP. The devs are working on a new version of phpword and there is [already an issue](https://github.com/PHPOffice/PHPWord/issues/1979) for the same.
+The report-maker package depends on phpoffice/phpword version 0.17.0, which is the latest version. The phpword package in turn requires version 5.3.3 or 7.0 of PHP. The devs are working on a new version of phpword which is compatible with php 8.0 and there is [already an issue](https://github.com/PHPOffice/PHPWord/issues/1979) for the same.
