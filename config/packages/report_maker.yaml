@@ -1,0 +1,4 @@
+# config/packages/report_maker.yaml
+
+report_maker:
+  storageDir: ./out
